@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Curso Java NEW tema 1 y 2</string>
+    <string name="hello">TE quiees ir al carajo</string>
+    <string name="find_beer">Find the beer!!</string>
+    <string name="brands">1</string>
+
+    <string-array name="beer_colors">
+        <item>light</item>
+        <item>dark</item>
+        <item>blue</item>
+
+    </string-array>
+</resources>
